@@ -1,0 +1,6 @@
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P1_OddLines\bin\Debug\P1_OddLines.exe.config
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P1_OddLines\bin\Debug\P1_OddLines.exe
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P1_OddLines\bin\Debug\P1_OddLines.pdb
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P1_OddLines\obj\Debug\P1_OddLines.csprojResolveAssemblyReference.cache
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P1_OddLines\obj\Debug\P1_OddLines.exe
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P1_OddLines\obj\Debug\P1_OddLines.pdb
