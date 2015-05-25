@@ -1,0 +1,6 @@
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P2_LineNumbers\bin\Debug\P2_LineNumbers.exe.config
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P2_LineNumbers\bin\Debug\P2_LineNumbers.exe
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P2_LineNumbers\bin\Debug\P2_LineNumbers.pdb
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P2_LineNumbers\obj\Debug\P2_LineNumbers.exe
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P2_LineNumbers\obj\Debug\P2_LineNumbers.pdb
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P2_LineNumbers\obj\Debug\P2_LineNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P4_CopyBinaryFail\bin\Debug\P4_CopyBinaryFail.exe.config
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P4_CopyBinaryFail\bin\Debug\P4_CopyBinaryFail.exe
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P4_CopyBinaryFail\bin\Debug\P4_CopyBinaryFail.pdb
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P4_CopyBinaryFail\obj\Debug\P4_CopyBinaryFail.csprojResolveAssemblyReference.cache
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P4_CopyBinaryFail\obj\Debug\P4_CopyBinaryFail.exe
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P4_CopyBinaryFail\obj\Debug\P4_CopyBinaryFail.pdb

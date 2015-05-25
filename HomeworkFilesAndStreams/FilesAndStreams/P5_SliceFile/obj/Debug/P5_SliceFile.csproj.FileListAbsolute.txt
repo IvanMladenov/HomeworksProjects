@@ -1,0 +1,6 @@
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P5_SliceFile\bin\Debug\P5_SliceFile.exe.config
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P5_SliceFile\bin\Debug\P5_SliceFile.exe
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P5_SliceFile\bin\Debug\P5_SliceFile.pdb
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P5_SliceFile\obj\Debug\P5_SliceFile.csprojResolveAssemblyReference.cache
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P5_SliceFile\obj\Debug\P5_SliceFile.exe
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P5_SliceFile\obj\Debug\P5_SliceFile.pdb

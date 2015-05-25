@@ -1,0 +1,6 @@
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P3_WordCound\bin\Debug\P3_WordCound.exe.config
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P3_WordCound\bin\Debug\P3_WordCound.exe
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P3_WordCound\bin\Debug\P3_WordCound.pdb
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P3_WordCound\obj\Debug\P3_WordCound.csprojResolveAssemblyReference.cache
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P3_WordCound\obj\Debug\P3_WordCound.exe
+E:\Fundamentials\FilesAndStreams\HomeworksProjects\HomeworkFilesAndStreams\FilesAndStreams\P3_WordCound\obj\Debug\P3_WordCound.pdb

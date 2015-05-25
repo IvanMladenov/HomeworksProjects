@@ -13,14 +13,16 @@ namespace P1_OddLines
         {
             string fileToRead = @"..\..\..\..\text.txt";
             StreamReader read = new StreamReader(fileToRead);
-            int rowCounter = 0;
-            while(!read.EndOfStream)
+            StreamWriter write = new StreamWriter("../../../../result.txt");
+            int rowCounter = 1;
+            while (!read.EndOfStream)
             {
                 string readLine = read.ReadLine();
-                if(rowCounter%2==0)
-                {
-                    Console.WriteLine(readLine);
-                }
+                StringBuilder str = new StringBuilder();
+                str.Append(rowCounter+".");
+                str.Append(readLine);
+                write.WriteLine(str.ToString());
+                Console.WriteLine(str.ToString());
                 rowCounter++;
             }
         }
